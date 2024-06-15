@@ -1,0 +1,25 @@
+{
+  "barangs": [
+    {
+      "id": 1,
+      "namaBarang": "Iphone 15",
+      "jenisBarang": "Elektronik",
+      "hargaBarang": 20000000, 
+      "stokBarang": 9
+    },
+    {
+      "id": 2,
+      "namaBarang": "Laptop Asus ROG",
+      "jenisBarang": "Elektronik",
+      "hargaBarang": 50000000,
+      "stokBarang": 30
+    },
+    {
+      "id": 3,
+      "namaBarang": "Kursi",
+      "jenisBarang": "Perlengkapan Rumah",
+      "hargaBarang": 60000,
+      "stokBarang": 300
+    }
+  ]
+} 

@@ -1,0 +1,26 @@
+{
+    "siswas": [
+      {
+        "id": 1,
+        "firstName": "Lionel",
+        "lastName": "Messi",
+        "kelas": "12A",
+        "jurusan": "Science"
+      },
+      {
+        "id": 2,
+        "firstName": "Cristiano",
+        "lastName": "Ronaldo",
+        "kelas": "12B",
+        "jurusan": "Science"
+      },
+      {
+        "id": 3,
+        "firstName": "Neymar",
+        "lastName": "Jr.",
+        "kelas": "11A",
+        "jurusan": "Arts"
+      }
+    ]
+  }
+  
